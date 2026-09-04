@@ -106,7 +106,6 @@ section {
     width: 330px;
     height: 330px;
     object-fit: cover;
-    filter: grayscale(100%);
     position: relative;
     z-index: 2;
 }
